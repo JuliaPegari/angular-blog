@@ -1,0 +1,28 @@
+.container__small-card {
+  width: 50rem;
+  margin-top: 1rem;
+  margin-left: 5rem;
+}
+
+.container__small-card__content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.small-card__image img {
+  width: 20rem;
+  min-width: 20rem;
+}
+
+.small-card__title h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Alinhar verticalmente */
+  font-size: 1.7rem;
+  margin-left: 1.5rem;
+}
+
+.container__small-card__separator {
+  margin-top: 1rem;
+}
