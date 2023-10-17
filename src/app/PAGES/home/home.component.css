@@ -1,11 +1,7 @@
-header {
-  display: flex;
-  justify-content: center;
-  margin-top: 1.5rem;
-}
-
 .container__articles {
-  margin-top: 3.5rem;
+  margin-top: 2rem;
   display: flex;
   flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
